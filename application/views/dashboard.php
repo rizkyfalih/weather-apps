@@ -33,7 +33,7 @@
 
 			<div class="hero" data-bg-image="<?php echo base_url(); ?>assets/images/cover.jpg">
 				<div class="container">
-					<form action="<?php echo base_url('dashboard/search')?>" class="find-location" method="post">
+					<form action="<?php echo base_url('search')?>" class="find-location" method="post">
 						<input type="text" name="keyword" placeholder="Find your location...">
 						<input type="submit" value="Find">
 					</form>
