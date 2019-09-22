@@ -1,4 +1,4 @@
-# NLP Exploration
+# Weather Forecast Apps
 
 <p align="justify">A simple weather forecast webs application using CodeIgniter</p>
 
